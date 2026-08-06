@@ -1,12 +1,12 @@
 
-### Giá xăng, dầu cập nhật ngày 30/07/2026
+### Giá xăng, dầu cập nhật ngày 06/08/2026
 > Nguồn: Petrolimex
 
 | Loại xăng dầu     | Đơn vị | Giá vùng 1 | Giá vùng 2 |
 |-------------------|--------|------------|------------|
 | Xăng RON 95-V     | VND/L  |      |      |
 | Xăng RON 95-III   | VND/L  |      |      |
-| Xăng E5 RON 92-II | VND/L  |     22.380 |     22.820 |
-| DO 0,001S-V       | VND/L  |     29.720 |     30.310 |
-| DO 0,05S-II       | VND/L  |     27.620 |     28.170 |
-| Dầu hỏa 2-K       | VND/L  |     27.400 |     27.940 |
+| Xăng E5 RON 92-II | VND/L  |     21.720 |     22.150 |
+| DO 0,001S-V       | VND/L  |     29.640 |     30.230 |
+| DO 0,05S-II       | VND/L  |     27.540 |     28.090 |
+| Dầu hỏa 2-K       | VND/L  |     26.260 |     26.780 |
