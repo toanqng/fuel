@@ -1,5 +1,5 @@
 
-### Giá xăng, dầu cập nhật ngày 29/10/2026
+### Giá xăng, dầu cập nhật ngày 01/11/2026
 > Nguồn: Petrolimex
 
 | Loại xăng dầu     | Đơn vị | Giá vùng 1 | Giá vùng 2 |
